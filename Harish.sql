@@ -6,4 +6,4 @@ id int primary key,
 namee varchar(255)
 );
 
---rollback drop table Haru;
+--rollback drop table HaruTable;
